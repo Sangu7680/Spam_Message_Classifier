@@ -16,9 +16,12 @@ Streamlit (for the interactive web UI)
 TfidfVectorizer (for feature extraction from text)
 Multinomial Naive Bayes (for classification)
 
-# __Steps To Setup And Run On Your PC__:
+# Steps To Setup And Run On Your PC Use Command Prompt :
+
 Make Sure You Have Python And PIP Installed!
+
 1)Clone the Repository-git clone https://github.com/Sangu7680/Spam_Messagae_Classifier.git
+
 cd Spam_Messagae_Classifier
 
 2)Install Required Dependencies
