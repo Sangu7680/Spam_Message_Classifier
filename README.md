@@ -27,11 +27,12 @@ cd Spam_Messagae_Classifier
 
 3)Replace(__"C:/Users/sanga/Downloads/hacker3.jpg"__) image path mentioned in spamdetector.py file to where your __imagebg.jpg__ is locating to show that image as background in streamlit app
 
-4) Run the Streamlit App In your Terminal
+4)Run the Streamlit App In your Terminal
    
 `streamlit run spam_classifier.py`
 
 5)Voila You Done! 🎉
+
 Open the URL shown in the terminal to access your Spam Message Classifier in your browser. Start typing a message and check whether it's spam or not!
 
 
