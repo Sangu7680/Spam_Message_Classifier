@@ -29,7 +29,7 @@ cd Spam_Messagae_Classifier
 
 4)Run the Streamlit App In your Terminal
    
-`streamlit run spam_classifier.py`
+`streamlit run spamdetector.py`
 
 5)Voila You Done! 🎉
 
