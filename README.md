@@ -25,7 +25,7 @@ cd Spam_Messagae_Classifier
 
 `pip install -r requirements.txt`
 
-3)Replace(__"C:/Users/sanga/Downloads/hacker3.jpg"__) image path mentioned in spamdetector.py file to where your __imagebg.jpg__ is locating to show that image as background in streamlit app
+3)Replace(__"C:/Users/sanga/Downloads/hacker3.jpg"__) image path mentioned in spamdetector.py file to where your __imagebg.jpg__ is locating to show that image as background in streamlit app By going to the spamdetector.py file.
 
 4)Run the Streamlit App In your Terminal
    
