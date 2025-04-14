@@ -9,14 +9,14 @@ Protecting users from unwanted or malicious messages.
 Learning from data patterns to improve accuracy over time.
 Providing an intuitive UI for instant message classification.
 
-#__Technologies Used__:
+# __Technologies Used__:
 
 Python (NumPy, Pandas, scikit-learn)
 Streamlit (for the interactive web UI)
 TfidfVectorizer (for feature extraction from text)
 Multinomial Naive Bayes (for classification)
 
-#__Steps To Setup And Run On Your PC__:
+# __Steps To Setup And Run On Your PC__:
    Make Sure You Have Python And PIP Installed!
 1)Clone the Repository-git clone https://github.com/Sangu7680/Spam_Messagae_Classifier.git
     cd Spam_Messagae_Classifier
