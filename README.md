@@ -1,4 +1,4 @@
-# Spam_Messagae_Classifier
+# Spam_Message_Classifier
 
 This Spam Message Classifier uses machine learning to distinguish between spam and ham (non-spam) messages. It analyzes the text of the message using NLP techniques and classifies it accordingly.
 
@@ -20,9 +20,9 @@ Multinomial Naive Bayes (for classification)
 
 Make Sure You Have Python And PIP Installed!
 
-1)Clone the Repository-git clone https://github.com/Sangu7680/Spam_Messagae_Classifier.git
+1)Clone the Repository-git clone https://github.com/Sangu7680/Spam_Message_Classifier.git
 
-cd Spam_Messagae_Classifier
+cd Spam_Message_Classifier
 
 2)Install Required Dependencies
 
