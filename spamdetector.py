@@ -25,7 +25,7 @@ def get_base64_image(image_path):
         return ""
     
 # Set your background image path here
-background_image_path = "C:/Users/sanga/Downloads/hacker3.jpg"  # Replace with the path to your background image
+background_image_path = "Image_BG.jpg"  # Replace with the path to your background image
 encoded_image = get_base64_image(background_image_path)
 
 # Define CSS for the background if the image was successfully loaded
