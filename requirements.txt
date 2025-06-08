@@ -3,4 +3,4 @@ numpy
 sklearn
 streamlit 
 pickle
-base64
+matplotlib
