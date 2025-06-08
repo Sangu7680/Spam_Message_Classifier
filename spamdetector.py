@@ -5,7 +5,7 @@ import base64
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load the model
-model_file = 'spam_model2.pkl'  # Replace with your model path
+model_file = 'spam_model.pkl'  # Replace with your model path
 with open(model_file, 'rb') as modelfile:
     model = pickle.load(modelfile)
 
