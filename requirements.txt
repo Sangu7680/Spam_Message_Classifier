@@ -1,6 +1,6 @@
 pandas 
 numpy 
 streamlit 
+altair<5
 matplotlib
 scikit-learn
-
